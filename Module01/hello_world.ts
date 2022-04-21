@@ -1,0 +1,10 @@
+console.log("Hello world");
+let message: string;
+message = 'Hello typescript';
+console.log(message);
+//message = 30;
+const bool = [true,false];
+console.log(bool[1]);
+let a: string = 'hello';
+//let a = 'hello';
+//const bool: Boolean[] = [true,false];
